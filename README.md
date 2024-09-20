@@ -1,0 +1,2 @@
+# Data-Extraction-and-NLP-on-Articles-Using-Python
+This project contains extracting, cleaning, and analyzing textual data from web-based articles. The extracted data undergoes preprocessing, sentiment analysis, and feature extraction before being stored in a Excel file. The output data is intended for use in understanding the complexity and sentiment of the content for various analytical purposes.
